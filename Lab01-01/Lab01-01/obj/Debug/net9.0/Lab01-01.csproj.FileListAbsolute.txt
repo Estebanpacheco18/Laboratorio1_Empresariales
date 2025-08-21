@@ -1,0 +1,15 @@
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\bin\Debug\net9.0\Lab01-01.exe
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\bin\Debug\net9.0\Lab01-01.deps.json
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\bin\Debug\net9.0\Lab01-01.runtimeconfig.json
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\bin\Debug\net9.0\Lab01-01.dll
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\bin\Debug\net9.0\Lab01-01.pdb
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.AssemblyInfoInputs.cache
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.AssemblyInfo.cs
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.csproj.CoreCompileInputs.cache
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.sourcelink.json
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.dll
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\refint\Lab01-01.dll
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.pdb
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\Lab01-01.genruntimeconfig.cache
+D:\EmpresarialesAvanzadoC#\Laboratorio1_Empresariales\Lab01-01\Lab01-01\obj\Debug\net9.0\ref\Lab01-01.dll
